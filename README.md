@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @houyam-benabderrahmane
-- 🌱 I’m currently Master1 ILSI student
+- 🌱 I’m currently Master2 ILSI student
 - 🌱 I’m currently using spring boot and next js
 - 🌱I’m currently learning python and machine learning
 - 💞️  I’m open to work and collaborations
